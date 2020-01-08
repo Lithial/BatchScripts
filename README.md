@@ -1,8 +1,5 @@
-This is a readme
+These are some useful quick scripts for git stuff because i end up typing more that i should. 
 
+WIP
 
-This readme now has some new stuff in it
-
-- like one of these
-
-## and one of these
+I'm not super good at batch yet
