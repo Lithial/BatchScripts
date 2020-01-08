@@ -1,3 +1,4 @@
-@echo off
-git config --global user.name %~1
-git config --global user.email %~2
+set /p name=
+set /p email= 
+git config --global user.name %name%
+git config --global user.email %email%
